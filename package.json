@@ -1,17 +1,16 @@
 {
-  "name": "react-native-usbserial",
-  "version": "1.0.1",
-  "description": "An USB Serial driver for react-native",
+  "name": "react-native-usbserial-tempfix",
+  "version": "1.0.2",
+  "description": "An USB Serial driver for react-native - temporary fix",
   "nativePackage": true,
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapaiva/react-native-usbserial.git"
+    "url": "git+https://github.com/theorime/react-native-usbserial.git"
   },
   "keywords": [
     "react-native",
@@ -20,9 +19,9 @@
     "usbserial"
   ],
   "author": "Matheus Paiva",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/mapaiva/react-native-usbserial/issues"
+    "url": "https://github.com/theorime/react-native-usbserial/issues"
   },
-  "homepage": "https://github.com/mapaiva/react-native-usbserial#readme"
+  "homepage": "https://github.com/theorime/react-native-usbserial#readme"
 }

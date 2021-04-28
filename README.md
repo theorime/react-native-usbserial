@@ -1,6 +1,7 @@
 # react-native-usbserial
 
 This wrapper implementation is totally based on [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android). Thanks [mik3y](https://github.com/mik3y) for the awesome project.
+This version is just a temporaray fix to resolve pushMap issues with the last versions of RN
 
 ## Installation
 

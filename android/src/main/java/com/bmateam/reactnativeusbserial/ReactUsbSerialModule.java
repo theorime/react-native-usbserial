@@ -50,7 +50,7 @@ public class ReactUsbSerialModule extends ReactContextBaseJavaModule {
 
             for (String key: usbDevices.keySet()) {
                 UsbDevice device = usbDevices.get(key);
-                WritableMap map = Arguments.createMap();
+                ReadableMap map = Arguments.createMap();
 
                 map.putString("name", device.getDeviceName());
                 map.putInt("deviceId", device.getDeviceId());
